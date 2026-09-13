@@ -1,0 +1,6 @@
+{
+  "name": "Sweet Crumbs Bakery",
+  "description": "Sweet Crumbs Bakery – Baked with Love, Served with Happiness ♡. Handcrafted custom cakes, cupcakes, cookies, and interactive 3D dream cake configurator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
